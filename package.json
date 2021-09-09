@@ -1,0 +1,22 @@
+{
+  "name": "m7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashanchuk/M7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ashanchuk/M7/issues"
+  },
+  "homepage": "https://github.com/ashanchuk/M7#readme"
+}
